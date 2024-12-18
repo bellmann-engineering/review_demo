@@ -5,6 +5,6 @@ int main() {
 
 void feature1() {
     // Feature 1
-    int zahl = 0;
-    zahl++;
+    int inc = 0;
+    inc++;
 }
